@@ -3,6 +3,6 @@
 Principal Engineer · Search, Retrieval & Agentic AI Systems<br>
 New York, NY · US Permanent Resident
 
-Principal engineer with 14+ years building search, retrieval, and agentic AI systems. Leads Daydream’s 9-person Search Core team, which took conversational search from lexical retrieval to hybrid retrieval with LLM orchestration, preference memory, and evaluation-gated releases. Previously set search strategy at Grubhub across 3 teams and 20 engineers on a platform serving 120K–150K requests per minute, delivering +2.37% conversion and $134K in annual Elasticsearch savings.
+Principal engineer with 14+ years building search, retrieval, and agentic AI systems. Leads Daydream’s 9-person Search Core team, which took conversational search from lexical retrieval to hybrid retrieval with LLM orchestration, preference memory, and evaluation-gated releases. Previously set search strategy at Grubhub across 3 teams and 20 engineers.
 
 [Résumé](https://fedetesone.github.io) · [PDF](https://fedetesone.github.io/Federico_Tesone_Resume.pdf) · [LinkedIn](https://linkedin.com/in/ftesone)
